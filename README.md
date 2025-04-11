@@ -7,4 +7,4 @@
 
 *Reach me at:*  
 - Email: farsanathesni02@gmail.com  
-- LinkedIn: [farsanaDS](www.linkedin.com/in/farsana-thasnem-pa) 
+- LinkedIn: [farsanaDS](www.linkedin.com/in/farsana-thasnem-pa)
