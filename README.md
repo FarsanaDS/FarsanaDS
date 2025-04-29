@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([www.linkedin.com/](https://www.linkedin.com/in/farsana-thasnem-pa))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/farsana-thasnem-pa/])
 
 ---
 
